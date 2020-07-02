@@ -1,0 +1,34 @@
+t = 1;
+e = 2;
+m = 3;
+u = 4;
+z = 5;
+y = 26;
+
+if(t > e){
+
+  print(m);
+
+} else {
+
+print(100);
+
+};
+
+
+
+s = 0;
+while( t =< y ){
+
+s=s+1;
+
+print(s);
+
+y = y-1;
+
+};
+
+
+/* my name is temmuz,this is a comment */
+/* this will not be shown */
+
